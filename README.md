@@ -9,4 +9,4 @@ Simple: Generates a random color by using and displaying the color name.</br>
 
 Hex: Generates a random color by using and displaying it's hex code. </br>
 
-![My Image](images/hex.png)
+![My Image](images/nhex.png)
