@@ -1,4 +1,4 @@
-# Color-Flipper
+# Color Flipper
 > This is a simple color flipper project in JavaScript code!</br>
 > The objective of this project is to generate a random color with one of two ways:</br>
 
